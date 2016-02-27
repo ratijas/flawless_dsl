@@ -24,3 +24,5 @@ from .main import (
     parse,
 )
 from .__main__ import cli
+
+__version__ = '1.0'

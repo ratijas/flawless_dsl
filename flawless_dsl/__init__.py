@@ -23,3 +23,4 @@ from .main import (
     FlawlessDSLParser,
     parse,
 )
+from .__main__ import cli
